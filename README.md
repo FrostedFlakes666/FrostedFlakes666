@@ -49,7 +49,7 @@
 ## 🏆 Trophy Case
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrostedFlakes666&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FrostedFlakes666&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 ---
 
